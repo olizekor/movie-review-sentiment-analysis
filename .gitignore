@@ -205,3 +205,6 @@ __marimo__/
 
 # ignore model checkpoints and results
 notebooks/results/
+
+# ignore embeddings folder
+glove_embeddings/
